@@ -514,16 +514,17 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 80px;
 }
 #overlay .content .couple-main {
-  width: 200px;
+  width: 400px;
 }
 #overlay .content h1 {
   font-size: 48px;
   margin-bottom: 10px;
   line-height: 1.5;
-  font-weight: normal;
-  color: #0298d4;
+  font-weight: 500;
+  color: #ffffff;
   font-family: "Satisfy", Arial, serif;
 }
+
 @media screen and (max-width: 480px) {
   #overlay .content h1 {
     font-size: 38px;
